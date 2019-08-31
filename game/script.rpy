@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Cirno")
+define c = Character("Cirno")
 
 
 # The game starts here.
@@ -24,9 +24,10 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Welcome to summer"
+    c "Welcome to summer"
 
-    e "Let's get started!"
+    c "Let's get started!"
+    c "it's nice and cold"
 
     # This ends the game.
 
