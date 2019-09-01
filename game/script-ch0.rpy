@@ -5,7 +5,7 @@ label ch0:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show cirno happy
+    show moka smile
 
     # These display lines of dialogue.
 
