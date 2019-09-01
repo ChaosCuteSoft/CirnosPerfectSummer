@@ -5,16 +5,20 @@ label ch0:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show cirno shy
+    show cirno happy
 
     # These display lines of dialogue.
 
-    c "Welcome to summer"
+    #c "Welcome to summer"
 
-    c "Let's get started!"
-    c "it's nice and cold"
+    #c "Let's get started!"
+    #c "it's nice and cold"
 
-    c "Let's freeze"
+    #c "Let's freeze"
+
+    "Moka opened her browser, looking around for new job ads when an interesting once caught her eye"
+    m "Hmm what’s this?"
+
 
     scene cg cat bikini
     pause 5
