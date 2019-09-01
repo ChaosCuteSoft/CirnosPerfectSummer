@@ -64,22 +64,22 @@ define gui.name_text_font = "DejaVuSans.ttf"
 define gui.interface_text_font = "DejaVuSans.ttf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 22
+define gui.text_size = 24
 
 ## The size of character names.
-define gui.name_text_size = 30
+define gui.name_text_size = 32
 
 ## The size of text in the game's user interface.
-define gui.interface_text_size = 22
+define gui.interface_text_size = 24
 
 ## The size of labels in the game's user interface.
-define gui.label_text_size = 24
+define gui.label_text_size = 26
 
 ## The size of text on the notify screen.
-define gui.notify_text_size = 16
+define gui.notify_text_size = 18
 
 ## The size of the game's title.
-define gui.title_text_size = 50
+define gui.title_text_size = 55
 
 
 ## Main and Game Menus #########################################################
@@ -145,7 +145,7 @@ define gui.dialogue_text_xalign = 0.0
 ## how buttons are displayed.
 
 ## The width and height of a button, in pixels. If None, Ren'Py computes a size.
-define gui.button_width = None
+define gui.button_width = 420
 define gui.button_height = None
 
 ## The borders on each side of the button, in left, top, right, bottom order.
@@ -469,6 +469,3 @@ init python:
 
         gui.nvl_button_width = 1240
         gui.nvl_button_xpos = 20
-
-
-
