@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("CirnosPerfectSummer")
+define config.name = _("Cirnos Perfect Summer")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -37,7 +37,7 @@ define gui.about = _p("""
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "CirnosPerfectSummer"
+define build.name = "CPS"
 
 
 ## Sounds and music ############################################################
@@ -47,7 +47,7 @@ define build.name = "CirnosPerfectSummer"
 
 define config.has_sound = True
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
