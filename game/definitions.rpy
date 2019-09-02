@@ -13,3 +13,4 @@ define p = Character("Patchouli")
 define m = Character("Moka")
 
 define y = Character("Yukari")
+define h = Character("Hong")
