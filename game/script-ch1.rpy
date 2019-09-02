@@ -1,11 +1,11 @@
 label ch1:
-    scene bg library outside snow
+    scene bg moka_apt summer
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show pach smile
+    show moka smile
 
     # These display lines of dialogue.
 
@@ -19,7 +19,4 @@ label ch1:
     "Moka opened her browser, looking around for new job ads when an interesting once caught her eye"
     m "Hmm what’s this?"
 
-
-    scene cg cat bikini
-    pause 5
     return

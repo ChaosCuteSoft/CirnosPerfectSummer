@@ -2,9 +2,9 @@ define config.developer = True
 
 define c = Character("Cirno")
 
-define r = Character("Reimu")
+define reimu = Character("Reimu")
 
-define rem = Character("Remilia")
+define remi = Character("Remilia")
 
 define s = Character("Sakuya")
 
