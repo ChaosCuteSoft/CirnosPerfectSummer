@@ -8,12 +8,15 @@
 # The game starts here.
 
 label start:
-    $ chapter = 0
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
+    $ chapter = 0
     call ch0
-    # This ends the game.
 
+    $ chapter = 1
+    call ch1
+
+    # This ends the game.
     return
