@@ -5,6 +5,6 @@ label ch4:
     "All of a sudden a loud crack can be heard"
     "The clouds in the sky start swirling together, centering around the lake. The clouds grow larger, and larger, eventually the sun being blotted out from the sky."
     show cirno monster
-    c "I have come!"
+    c "I have come! Bow down before me!"
 
     return
