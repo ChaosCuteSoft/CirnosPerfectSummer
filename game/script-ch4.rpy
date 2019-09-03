@@ -14,6 +14,8 @@ label ch4:
     #Enter Cirno
     show cirno monster
     c "Ah this is just what I was looking for! A fresh city full of people to worship the strongest fairy of them all!"
-
-
+    "Cirno flies around above Central Park, looking at all the people, buildings and nature below."
+    "She raised her hands to the sky, the bird cawing and the beetle loudly clicking."
+    "Snow starts pouring from the sky, blanketing the city in white. The lake freezes over, large spikes of protruding from the surface."
+    
     return
