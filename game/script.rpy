@@ -1,9 +1,17 @@
 ﻿# The script of the game goes in this file.
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
+#Launch splash screen
+label splashscreen:
+    scene black
+    with Pause(1)
 
+    show splash with dissolve
+    with Pause(2)
 
+    hide text with dissolve
+    with Pause(1)
+
+    return
 
 # The game starts here.
 
@@ -14,7 +22,7 @@ label start:
 
     $ chapter = 4
     call ch4
-    
+
     $ chapter = 1
     call ch1
 
