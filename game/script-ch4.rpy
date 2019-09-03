@@ -1,5 +1,5 @@
 label ch4:
-    scene bg library outside snow
+    scene bg central_park summer
 
     #Introductory exposition
     "Everything seemed peaceful and quiet on a typical August summer day in Central Park."
