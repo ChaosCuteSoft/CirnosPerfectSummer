@@ -47,9 +47,13 @@ label ch3:
     hide remilia smile2
     show remilia playful
     "The small vampire reached out her finger and caught some dropping blood before it fell onto her dress."
+    hide moka
+    show moka oof at left
     "She stuck out her tongue and licked her finger. Her eyes cooled their glow and she sighed happily."
     hide remilia playful
     show remilia smile
+    hide moka oof
+    show moka interested at left
     remi "Welcome, Moka. We are quite glad to have you and could really use your help here…"
     #show remilia smug or grinning
     hide remilia smile
