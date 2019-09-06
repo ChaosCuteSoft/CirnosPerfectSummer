@@ -20,34 +20,34 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    call ch0
+    call ch0 from _call_ch0
 
     $ chapter = 1
-    call ch1
+    call ch1 from _call_ch1
 
     $ chapter = 2
-    call ch2
+    call ch2 from _call_ch2
 
     $ chapter = 3
-    call ch3
+    call ch3 from _call_ch3
 
     $ chapter = 4
-    call ch4
+    call ch4 from _call_ch4
 
     $ chapter = 5
-    call ch5
+    call ch5 from _call_ch5
 
     $ chapter = 6
-    call ch6
+    call ch6 from _call_ch6
 
     $ chapter = 7
-    call ch7
+    call ch7 from _call_ch7
 
     $ chapter = 8
-    call ch8
+    call ch8 from _call_ch8
 
     $ chapter = 9
-    call chEpilogue
+    call chEpilogue from _call_chEpilogue
 
     # This ends the game.
     return
