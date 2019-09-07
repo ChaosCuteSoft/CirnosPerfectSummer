@@ -6,6 +6,8 @@ label ch5:
     show reimu mad at right
     "They looked around and everything was covered in ice"
     reimu "Great, my first time in New York and it's a blizzard."
+    hide reimu mad
+    hide yukari mad
     "Sakuya, Remilia and Moka come down to greet the two."
     reimu "Cirno has gone completely berserk and frozen all over Gensokyo."
     y "I do not know what happened to her, but not even I could stop her. Something is very wrong here."

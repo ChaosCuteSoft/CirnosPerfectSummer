@@ -6,7 +6,7 @@ label splashscreen:
     with Pause(1)
 
     show splash with dissolve
-    with Pause(2)
+    with Pause(1.5)
 
     hide text with dissolve
     with Pause(1)
