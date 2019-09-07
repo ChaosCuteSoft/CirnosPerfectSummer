@@ -37,12 +37,6 @@ label start:
     $ chapter = 5
     call ch5 from _call_ch5
 
-    $ chapter = 6
-    call ch6 from _call_ch6
-
-    $ chapter = 7
-    call ch7 from _call_ch7
-
     $ chapter = 8
     call ch8 from _call_ch8
 
