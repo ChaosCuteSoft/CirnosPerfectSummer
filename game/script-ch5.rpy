@@ -1,13 +1,13 @@
 label ch5:
     scene bg trees_fence
     "Yukari rips a tear through space and time"
-    show yukari mad at left
+    show yukari border mad at left
     "A giant black void hole appears in Central Park,, glowing red eyes looking around through the dark."
     show reimu mad at right
     "They looked around and everything was covered in ice"
     reimu "Great, my first time in New York and it's a blizzard."
     hide reimu mad
-    hide yukari mad
+    hide yukari border mad
     "Sakuya, Remilia and Moka come down to greet the two."
     reimu "Cirno has gone completely berserk and frozen all over Gensokyo."
     y "I do not know what happened to her, but not even I could stop her. Something is very wrong here."

@@ -23,7 +23,7 @@ label ch4:
     "Two girls were laying back on the grass, soaking in the warm summer sun."
     "While resting they did not immediately notice the quick change in weather and clouds until…"
     show bikini_girl at left
-    show sundress_girl at right
+    show sun_dress at right
     bikini "How did it get so cold all of a sudden?"
     sundress "This is insane! How is it snowing in July? Is this some kind of dream"
     "Up above pidgeons fly with icy blue wings, their eyes turned into a sinister red."
