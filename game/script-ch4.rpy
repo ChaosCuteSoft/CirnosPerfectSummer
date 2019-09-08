@@ -17,5 +17,16 @@ label ch4:
     "Cirno flies around above Central Park, looking at all the people, buildings and nature below."
     "She raised her hands to the sky, the bird cawing and the beetle loudly clicking."
     "Snow starts pouring from the sky, blanketing the city in white. The lake freezes over, large spikes of protruding from the surface."
-    
+
+    #scene winter
+    scene bg_winter_central_park
+    "Two girls were laying back on the grass, soaking in the warm summer sun."
+    "While resting they did not immediately notice the quick change in weather and clouds until…"
+    show bikini_girl at left
+    show sundress_girl at right
+    bikini "How did it get so cold all of a sudden?"
+    sundress "This is insane! How is it snowing in July? Is this some kind of dream"
+    "Up above pidgeons fly with icy blue wings, their eyes turned into a sinister red."
+    "Cold air and snow came from their breath. Overhead the sky glowed an ominous purple, snow pouring down more and more."
+
     return

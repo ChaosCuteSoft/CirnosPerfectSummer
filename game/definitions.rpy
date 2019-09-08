@@ -14,3 +14,5 @@ define m = Character("Moka")
 
 define y = Character("Yukari")
 define h = Character("Hong")
+define bikini = Character("Girl in bikini")
+define sundress = Character("Girl in sundress")
