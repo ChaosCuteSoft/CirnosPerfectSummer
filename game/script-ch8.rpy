@@ -1,4 +1,5 @@
 label ch8:
+    play music "chill.mp3"
     scene bg_winter_central_park
     show moka interested at left
     show remilia mad2
@@ -43,6 +44,8 @@ label ch8:
     hide moka oof
     hide sakuya mad
     show cirno summer surprise
+
+    play music "how-it-begins-by-kevin-macleod.mp3"
     "Time resume, the ice shattered and Cirno turned back into her normal self."
     "The skies opened, revealing a warm sunny sky. All those who had been frozen melted away. Everyone looking around getting their orientation again."
 

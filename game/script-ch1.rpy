@@ -1,5 +1,6 @@
 label ch1:
     scene bg_nyc
+    play music "how-it-begins-by-kevin-macleod.mp3"
     show moka happy
     "It wasn't easy being a maid in New York. Moka Latte really wanted to work for a maid cafe just like she saw in so many anime series."
     "These days there wasn't too many of those around."
