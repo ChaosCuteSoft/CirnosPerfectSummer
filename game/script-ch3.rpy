@@ -6,18 +6,18 @@ label ch3:
     "Moka looked up at the beautiful tower piercing the sky"
     m "Hmmm is this the right place?"
     "Moka walked inside while the doorman called up to her client's room."
-    " The elevator door opens up and a young woman with grey hair in a maids outfit walked out."
+    "The elevator door opens up and a young woman with grey hair in a maids outfit walked out."
     #show Sakuya
     show sakuya smile at right
     s " Hmm is this who they sent?"
     "Sakuya looked the girl up and down. Catching glimpse of the nervous eyes moving up and down her thighs."
-    " Her eyes moved upward, staring in slight disbelief at the girl's chest, the large eye in her cleavage dripping blood down her dress."
+    "Her eyes moved upward, staring in slight disbelief at the girl's chest, the large eye in her cleavage dripping blood down her dress."
     #show Sakuya grinning
-    s " It's a pleasure to meet you. My name is Sakuya. It will be so good to have some extra help for the mistress."
-    " Moka extended her hand outward, looking up into the head maid's sharp purple eyes. "
-    m " It's a pleasure to meet you as well. My name is Moka Latte! I have been so very excited to start here."
+    s "It's a pleasure to meet you. My name is Sakuya. It will be so good to have some extra help for the mistress."
+    "Moka extended her hand outward, looking up into the head maid's sharp purple eyes. "
+    m "It's a pleasure to meet you as well. My name is Moka Latte! I have been so very excited to start here."
     "Her eyes darted around the upscale lobby."
-    m " This really is a beautiful building."
+    m "This really is a beautiful building."
     s "Only the best for the mistress! Come, let me introduce you."
     "The two entered the elevator, ascending to the sky as the view of Central Park widened through the glass."
 
@@ -33,8 +33,10 @@ label ch3:
     hide moka interested
     show moka happy at left
     h "Good to meet you! My name is Hong Meiling."
-    "Moka shook her hand, surprised by how strong her grip was. Hong's hand felt a bit rough and calloused. Her strength was quite clear."
-    "Light footsteps in the distance started getting closer and closer. Moka looked and saw a short girl starting to approach them."
+    "Moka shook her hand, surprised by how strong her grip was. Hong's hand felt a bit rough and calloused."
+    "Her strength was quite clear."
+    "Light footsteps in the distance started getting closer and closer"
+    "Moka looked and saw a short girl starting to approach them."
     hide hong smile2
     hide sakuya happy
     show remilia smile2 at right
@@ -43,7 +45,8 @@ label ch3:
     show sakuya happy
     s "Allow me to introduce you to my mistress, Remilia Scarlet "
     hide sakuya happy
-    "Remilia walked up to Moka, closely inspecting her up and down. When she saw  the bleeding eye on the maid's chest, her eyes light up a bright red."
+    "Remilia walked up to Moka, closely inspecting her up and down."
+    "When she saw  the bleeding eye on the maid's chest, her eyes light up a bright red."
     hide remilia smile2
     show remilia playful
     "The small vampire reached out her finger and caught some dropping blood before it fell onto her dress."

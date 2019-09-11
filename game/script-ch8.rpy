@@ -6,7 +6,8 @@ label ch8:
     show sakuya mad at right
     "The group worked their way through Central Park, heading north toward the center of the storm."
     "Through the blinding snow, the girls unleashed attacks, warming and freeing the frozen mutated animals."
-    "Most humans had taken shelter, some had turned into frozen statues. With the healing magic fires, Remilia and Moka freed them."
+    "Most humans had taken shelter, some had turned into frozen statues."
+    "With the healing magic fires, Remilia and Moka freed them."
     "Finally the group made it toward the reservoir at Central Park. Cirno in her monstrous form descended."
     hide moka interested
     hide remilia mad2
@@ -20,7 +21,8 @@ label ch8:
     show yukari mad at left
     show hong angry at right
     reimu "OK girls, let's do this~ FOR GENSOKYO!"
-    "Complete chaos errupted in the park. Spells and elements of all colors flying around, lighting the sky up like the 4th of July."
+    "Complete chaos errupted in the park."
+    "Spells and elements of all colors flying around, lighting the sky up like the 4th of July."
 
     hide reimu mad
     hide yukari mad
@@ -47,7 +49,8 @@ label ch8:
 
     play music "how-it-begins-by-kevin-macleod.mp3"
     "Time resume, the ice shattered and Cirno turned back into her normal self."
-    "The skies opened, revealing a warm sunny sky. All those who had been frozen melted away. Everyone looking around getting their orientation again."
+    "The skies opened, revealing a warm sunny sky. All those who had been frozen melted away."
+    "Everyone looking around getting their orientation again."
 
 
 
