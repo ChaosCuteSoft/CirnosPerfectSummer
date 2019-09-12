@@ -6,9 +6,9 @@ label ch8:
     show sakuya mad at right
     "The group worked their way through Central Park, heading north toward the center of the storm."
     "Through the blinding snow, the girls unleashed attacks, warming and freeing the frozen mutated animals."
-    "Most humans had taken shelter, some had turned into frozen statues."
-    "With the healing magic fires, Remilia and Moka freed them."
+    "Most humans had taken shelter, some had turned into frozen statues. With the healing magic fires, Remilia and Moka freed them."
     "Finally the group made it toward the reservoir at Central Park. Cirno in her monstrous form descended."
+
     hide moka interested
     hide remilia mad2
     hide sakuya mad
@@ -16,13 +16,14 @@ label ch8:
     c "Ah my goodness! You have come all this way from Gensokyo just to worship me?"
     c "Finally you can see and will recognize me as the strongest in the world! No, the strongest in the Universe!"
     "She laughed maniacally, the beetle and bird mouths on her shoulder loudly screech."
+
     hide cirno monster
     show reimu mad
     show yukari mad at left
     show hong angry at right
     reimu "OK girls, let's do this~ FOR GENSOKYO!"
-    "Complete chaos errupted in the park."
-    "Spells and elements of all colors flying around, lighting the sky up like the 4th of July."
+    "Complete chaos erupted in the park. Spells and elements of all colors flying around, lighting the sky up like the 4th of July."
+
 
     hide reimu mad
     hide yukari mad
@@ -30,6 +31,7 @@ label ch8:
     show cirno monster
     "Cirno just laughed, encased in ice."
     c "That's not good enough to defeat the strongest fairy! Here, try some of my tasty shaved ice!"
+
     show remilia dark angry at right
     "Cirno hurled a large glowing icicle toward Remilia, the ice encapsulated the small vampire freezing her in place."
     "Upon seeing this, Moka and Sakuya fumed anger."
@@ -42,7 +44,8 @@ label ch8:
     s "You will regret this you little pipsqueak! Nobody hurts our mistress."
     m "We will show you the power of the maids!"
     "Sakuya took out her stopwatch and completely froze time except for herself and Moka."
-    "Mokas eyes glowed red, anger and hate fueling her. She radiated fire and body tackled the flying ice fairy monster."
+    "Moka's eyes glowed red, anger, and hate fueling her. She radiated fire and body tackled the flying ice fairy monster."
+
     hide moka oof
     hide sakuya mad
     show cirno summer surprise
