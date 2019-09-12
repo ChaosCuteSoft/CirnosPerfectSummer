@@ -20,8 +20,6 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    call ch0 from _call_ch0
-
     $ chapter = 1
     call ch1 from _call_ch1
 
