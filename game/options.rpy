@@ -36,11 +36,11 @@ define gui.about = _p("""
 
     Producer: Prince David
 
-    Coding: Prince David & byteyoo
+    Coding: Prince David & {a=https://www.instagram.com/byteyoo/}byteyoo{/a}
 
     Music: byteyoo & {a=https://incompetech.com/music/}Kevin Macleod{/a}
 
-    Character Sprites: {a=https://www.instagram.com/keikokup/}KeikoKup{/a}, Kaoru, Magellan
+    Character Sprites: {a=https://www.instagram.com/keikokup/}KeikoKup{/a}, {a=http://gensoukyou.1000.tv/}Kaoru{/a}, {a=http://cyanyurikago.web.fc2.com/}Magellan{/a}
 
 """)
 
