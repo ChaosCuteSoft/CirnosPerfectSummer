@@ -2,22 +2,21 @@
 
 define config.developer = True
 
-define c = Character("Cirno")
+define c = Character("Cirno", who_color = "#41B0F8", what_color="#41DCF8")
 
-define reimu = Character("Reimu")
+define reimu = Character("Reimu", who_color="#F11212", what_color="#FFFFFF")
 
-define remi = Character("Remilia")
+define remi = Character("Remilia", who_color="#F11212", what_color="#FFDAFA")
 
-define s = Character("Sakuya")
+define s = Character("Sakuya", who_color="#818FFF", what_color="#CCCCCC")
 
-define p = Character("Patchouli")
 
-define m = Character("Moka")
+define m = Character("Moka", who_color="#FE5463", what_color="#FC60E5")
 
-define y = Character("Yukari")
-define h = Character("Hong")
-define bikini = Character("Girl in bikini")
-define sundress = Character("Girl in sundress")
+define y = Character("Yukari", who_color="#FFE318", what_color="#C8B5FF")
+define h = Character("Hong", who_color="#FF5555", what_color="#C9E29A")
+define bikini = Character("Girl in bikini", who_color="#3AF72A", what_color="#C95D5D")
+define sundress = Character("Girl in sundress", who_color="#EA54D3", what_color="#F7D3F2")
 define cirno_scale = 0.6
 define moka_scale = 0.85
 define sakuya_scale = 1.05
