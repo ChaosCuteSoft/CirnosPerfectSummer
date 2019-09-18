@@ -23,14 +23,27 @@ define gui.show_name = False
 
 ## The version of the game.
 
-define config.version = "1.02"
+define config.version = "1.03"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+    Created by {a=http://ChaosCuteSoft.com/}Chaos Cute Soft{/a} 2019 for the {a=https://itch.io/jam/9}⑨ Jam{/a}
+
+    Story: {a=https://www.instagram.com/keikokup/}KeikoKup{/a} and {a=https://www.twitter.com/prince_david/}Prince David{/a}
+
+    Producer: Prince David
+
+    Coding: Prince David & byteyoo
+
+    Music: byteyoo & {a=https://incompetech.com/music/}Kevin Macleod{/a}
+
+    Character Sprites: {a=https://www.instagram.com/keikokup/}KeikoKup{/a}, Kaoru, Magellan
+
 """)
+
 
 
 ## A short name for the game used for executables and directories in the built
@@ -126,6 +139,7 @@ default preferences.text_cps = 0
 ## to 30 being the valid range.
 
 default preferences.afm_time = 15
+
 
 
 ## Save directory ##############################################################
