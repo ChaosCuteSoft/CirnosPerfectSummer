@@ -1,5 +1,5 @@
 label ch0:
-    scene bg scarlet_apt blue
+    scene bg scarlet_apt red
 
     #removed starting at chapter 1
     show moka oof
