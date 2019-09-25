@@ -4,143 +4,143 @@ translate spanish strings:
 
     # game/screens.rpy:256
     old "Back"
-    new ""
+    new "Espalda"
 
     # game/screens.rpy:257
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:258
     old "Skip"
-    new ""
+    new "Omitir"
 
     # game/screens.rpy:259
     old "Auto"
-    new ""
+    new "Automática"
 
     # game/screens.rpy:260
     old "Save"
-    new ""
+    new "Salvar"
 
     # game/screens.rpy:261
     old "Q.Save"
-    new ""
+    new "Rapida Salvar"
 
     # game/screens.rpy:262
     old "Q.Load"
-    new ""
+    new "Rapida Carga"
 
     # game/screens.rpy:263
     old "Prefs"
-    new ""
+    new "Opción"
 
     # game/screens.rpy:304
     old "Start"
-    new ""
+    new "Comienzo"
 
     # game/screens.rpy:312
     old "Load"
-    new ""
+    new "Carga"
 
     # game/screens.rpy:314
     old "Preferences"
-    new ""
+    new "Opciónes"
 
     # game/screens.rpy:318
     old "End Replay"
-    new ""
+    new "Finalizar reproducción"
 
     # game/screens.rpy:322
     old "Main Menu"
-    new ""
+    new "Menú Principal"
 
     # game/screens.rpy:324
     old "About"
-    new ""
+    new "Acerca"
 
     # game/screens.rpy:329
     old "Help"
-    new ""
+    new "Ayuda"
 
     # game/screens.rpy:332
     old "Quit"
-    new ""
+    new "Dejar"
 
     # game/screens.rpy:473
     old "Return"
-    new ""
+    new "Regreso"
 
     # game/screens.rpy:557
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:563
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Hecho con  {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:603
     old "Page {}"
-    new ""
+    new "Página {}"
 
     # game/screens.rpy:603
     old "Automatic saves"
-    new ""
+    new "Guardado automático"
 
     # game/screens.rpy:603
     old "Quick saves"
-    new ""
+    new "Guardado rápido"
 
     # game/screens.rpy:645
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:645
     old "empty slot"
-    new ""
+    new "ranura vacía"
 
     # game/screens.rpy:662
     old "<"
-    new ""
+    new "<"
 
     # game/screens.rpy:665
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:668
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}R"
 
     # game/screens.rpy:674
     old ">"
-    new ""
+    new ">"
 
     # game/screens.rpy:731
     old "Display"
-    new ""
+    new "Monitora"
 
     # game/screens.rpy:732
     old "Window"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:733
     old "Fullscreen"
-    new ""
+    new "Pantalla completa"
 
     # game/screens.rpy:737
     old "Rollback Side"
-    new ""
+    new "Diapositiva de Reversión"
 
     # game/screens.rpy:738
     old "Disable"
-    new ""
+    new "Inhabilitar"
 
     # game/screens.rpy:739
     old "Left"
-    new ""
+    new "Izquierda"
 
     # game/screens.rpy:740
     old "Right"
-    new ""
+    new "Derecha"
 
     # game/screens.rpy:745
     old "Unseen Text"
@@ -337,4 +337,3 @@ translate spanish strings:
     # game/screens.rpy:1434
     old "Menu"
     new ""
-

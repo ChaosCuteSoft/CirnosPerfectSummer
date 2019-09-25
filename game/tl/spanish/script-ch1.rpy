@@ -4,7 +4,7 @@
 translate spanish ch1_03ec83f0:
 
     # "It isn't easy being a maid in New York. Moka Latte wants to work for a maid cafe, just like she has seen in so many anime series."
-    ""
+    "Moka encuentra un anuncio mientras camina por la calle, ella quiere trabajar en un Café de Maids o simplemente como una ‘maid’ como las que existen en el anime, pero tiene algo de dificultad en encontrar uno ya que está  en Nueva York y no muchos de esos establecimientos siguen abiertos aquí."
 
 # game/script-ch1.rpy:7
 translate spanish ch1_545deb66:
@@ -41,4 +41,3 @@ translate spanish ch1_e943dee8:
 
     # "Moka ripped off one of the address tabs from the bottom and stuffed it in her purse."
     ""
-

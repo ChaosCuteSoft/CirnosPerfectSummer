@@ -758,7 +758,7 @@ screen preferences():
 
                 label _("Language")
                 textbutton "English" action Language(None)
-                #textbutton "Spanish" action Language("spanish")
+                textbutton "Spanish" action Language("spanish")
             null height (4 * gui.pref_spacing)
 
             hbox:
