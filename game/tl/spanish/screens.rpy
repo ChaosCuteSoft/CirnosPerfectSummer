@@ -83,11 +83,11 @@ translate spanish strings:
 
     # screens.rpy:610
     old "Automatic saves"
-    new "Grabación automática"
+    new "Guardado Automático"
 
     # screens.rpy:610
     old "Quick saves"
-    new "Grabación rápida"
+    new "Guardado rápido"
 
     # screens.rpy:652
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -127,7 +127,7 @@ translate spanish strings:
 
     # screens.rpy:757
     old "Unseen Text"
-    new "Texto no visto"
+    new "Texto invisible"
 
     # screens.rpy:758
     old "After Choices"
@@ -143,19 +143,19 @@ translate spanish strings:
 
     # screens.rpy:794
     old "Text Speed"
-    new "Veloc. texto"
+    new "Veloc. de texto"
 
     # screens.rpy:798
     old "Auto-Forward Time"
-    new "Veloc. auto-avance"
+    new "Veloc. de auto-avance"
 
     # screens.rpy:805
     old "Music Volume"
-    new "Volumen música"
+    new "Volumen de la música"
 
     # screens.rpy:812
     old "Sound Volume"
-    new "Volumen sonido"
+    new "Volumen del sonido"
 
     # screens.rpy:818
     old "Test"
@@ -163,11 +163,11 @@ translate spanish strings:
 
     # screens.rpy:822
     old "Voice Volume"
-    new "Volumen voz"
+    new "Volumen de la voz"
 
     # screens.rpy:833
     old "Mute All"
-    new "Silencia todo"
+    new "Silenciar todo"
 
     # screens.rpy:952
     old "The dialogue history is empty."
@@ -227,7 +227,7 @@ translate spanish strings:
 
     # screens.rpy:1055
     old "Tab"
-    new "Tabulador"
+    new "Tab"
 
     # screens.rpy:1056
     old "Toggles dialogue skipping."
