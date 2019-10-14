@@ -330,3 +330,23 @@ translate spanish strings:
 
     old "Spanish"
     new "Español"
+# TODO: Translation updated at 2019-10-03 21:47
+
+translate spanish strings:
+
+    # game/screens.rpy:737
+    old "Rollback Side"
+    new ""
+
+    # game/screens.rpy:739
+    old "Left"
+    new ""
+
+    # game/screens.rpy:740
+    old "Right"
+    new ""
+
+    # game/screens.rpy:747
+    old "Transitions"
+    new ""
+
