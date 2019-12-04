@@ -36,9 +36,9 @@ define gui.about = _p("""
 
     Producer: David Maiman
 
-    Coding: David Maiman & {a=https://www.instagram.com/byteyoo/}byteyoo{/a}
+    Coding: David Maiman & {a=https://www.instagram.com/Steven (Dong Woo) Yoo/}Steven (Dong Woo) Yoo{/a}
 
-    Music: byteyoo & {a=https://incompetech.com/music/}Kevin Macleod{/a}
+    Music: Steven (Dong Woo) Yoo & {a=https://incompetech.com/music/}Kevin Macleod{/a}
 
     Character Sprites: {a=https://www.instagram.com/keikokup/}Linnea Kataja{/a}, {a=http://gensoukyou.1000.tv/}Kaoru{/a}, {a=http://cyanyurikago.web.fc2.com/}Magellan{/a}
 
