@@ -32,15 +32,15 @@ define config.version = "1.05"
 define gui.about = _p("""
     Created by {a=http://ChaosCuteSoft.com/}Chaos Cute Soft{/a} 2019 for the {a=https://itch.io/jam/9}⑨ Jam{/a}
 
-    Story: {a=https://www.instagram.com/keikokup/}KeikoKup{/a} and {a=https://www.twitter.com/prince_david/}Prince David{/a}
+    Story: {a=https://www.instagram.com/keikokup/}Linnea Kataja{/a} and {a=https://www.twitter.com/prince_david/}David Maiman{/a}
 
-    Producer: Prince David
+    Producer: David Maiman
 
-    Coding: Prince David & {a=https://www.instagram.com/byteyoo/}byteyoo{/a}
+    Coding: David Maiman & {a=https://www.instagram.com/byteyoo/}byteyoo{/a}
 
     Music: byteyoo & {a=https://incompetech.com/music/}Kevin Macleod{/a}
 
-    Character Sprites: {a=https://www.instagram.com/keikokup/}KeikoKup{/a}, {a=http://gensoukyou.1000.tv/}Kaoru{/a}, {a=http://cyanyurikago.web.fc2.com/}Magellan{/a}
+    Character Sprites: {a=https://www.instagram.com/keikokup/}Linnea Kataja{/a}, {a=http://gensoukyou.1000.tv/}Kaoru{/a}, {a=http://cyanyurikago.web.fc2.com/}Magellan{/a}
 
 """)
 
