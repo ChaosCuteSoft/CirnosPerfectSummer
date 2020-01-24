@@ -7,7 +7,9 @@ label chEpilogue:
     c "Aww yeah New York ice cream is the best!"
     m "Thank you! Yes, we make it soft and creamy here. Now you better behave yourself. I will not have you hurting the mistress again!"
     c "Yeah yeah, just keep giving me ice cream, and we are cool."
-    "Sakuya just shrugged."
+
+    scene endingcg
+    pause 10.0
 
 
     return

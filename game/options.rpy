@@ -30,7 +30,7 @@ define config.version = "1.05"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
-    Created by {a=http://ChaosCuteSoft.com/}Chaos Cute Soft{/a} 2019 for the {a=https://itch.io/jam/9}⑨ Jam{/a}
+    Created by {a=http://ChaosCuteSoft.com/}Chaos Cute Soft{/a} 2020 for the ⑨ Jam
 
     Story: {a=https://www.instagram.com/keikokup/}Linnea Kataja{/a} and {a=https://www.twitter.com/prince_david/}David Maiman{/a}
 
@@ -211,7 +211,7 @@ init python:
 ## Set this to a string containing your Apple Developer ID Application to enable
 ## codesigning on the Mac. Be sure to change it to your own Apple-issued ID.
 
-# define build.mac_identity = "Developer ID Application: Guy Shy (XHTE5H7Z42)"
+define build.mac_identity = "Developer ID Application: Guy Shy (XHTE5H7Z42)"
 
 
 ## A Google Play license key is required to download expansion files and perform
