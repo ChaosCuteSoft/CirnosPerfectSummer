@@ -211,7 +211,7 @@ init python:
 ## Set this to a string containing your Apple Developer ID Application to enable
 ## codesigning on the Mac. Be sure to change it to your own Apple-issued ID.
 
-define build.mac_identity = "Developer ID Application: Guy Shy (XHTE5H7Z42)"
+#define build.mac_identity = "Developer ID Application: Guy Shy (XHTE5H7Z42)"
 
 
 ## A Google Play license key is required to download expansion files and perform
